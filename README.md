@@ -1,6 +1,6 @@
-# React.js Twitter Clone
+# React.js Twitter UI
 
-A front-end clone of twitter, slightly interactive!
+A front-end UI similar to Twitter, slightly interactive!
 
 ## See the original CodePen project at:
 
